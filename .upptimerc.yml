@@ -65,5 +65,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Back to EvanTahler.com
+      herf: https://www.evantahler.com
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
