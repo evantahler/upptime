@@ -2,11 +2,52 @@
 owner: evantahler # Your GitHub username
 repo: upptime # Your Github repository name
 
-# Add your sites here
 sites:
+  # Personal
   - name: www.evantahler.com
     url: https://www.evantahler.com
-    icon: https://github.com/evantahler/www.evantahler.com/blob/master/public/static/images/evan.jpg
+    icon: https://www.evantahler.com/static/icons/android-icon-192x192.png
+  - name: blog.evantahler.com
+    url: https://blog.evantahler.com
+    icon: https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png
+
+  # Delicious Hat
+  - name: www.delicioushat.com
+    url: https://www.delicioushat.com
+    icon: https://www.delicioushat.com/static/images/icons/android-icon-192x192.png
+
+  # Actionhero
+  - name: www.actionherojs.com
+    url: https://www.actionherojs.com
+    icon: https://www.actionherojs.com/static/images/icons/android-icon-192x192.png
+  - name: react.actionherojs.com
+    url: https://react.actionherojs.com
+    icon: https://www.actionherojs.com/static/images/icons/android-icon-192x192.png
+  - name: docs.actionherojs.com
+    url: https://docs.actionherojs.com
+    icon: https://www.actionherojs.com/static/images/icons/android-icon-192x192.png
+  - name: demo.actionherojs.com
+    url: https://demo.actionherojs.com/api/status
+    icon: https://www.actionherojs.com/static/images/icons/android-icon-192x192.png
+  - name: chat.actionherojs.com
+    url: https://chat.actionherojs.com/api/1/status
+    icon: https://www.actionherojs.com/static/images/icons/android-icon-192x192.png
+
+  # Grouparoo
+  - name: www.grouparoo.com
+    url: https://www.grouparoo.com
+    icon: https://www.grouparoo.com/favicon/favicon-196x196.png
+  - name: telemetry.grouparoo.com
+    url: https://telemetry.grouparoo.com
+    icon: https://www.grouparoo.com/favicon/favicon-196x196.png
+  - name: staging-public.grouparoo.com
+    url: https://staging-public.grouparoo.com/api/v1/status/public
+    icon: https://www.grouparoo.com/favicon/favicon-196x196.png
+
+  # Voom
+  - name: www.voom.flights
+    url: https://www.voom.flights
+    icon: https://www.voom.flights/icon.png
 
 assignees: # Users to assign downtime issues (optional)
   - evantahler
@@ -18,7 +59,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** Monitoring Evan's Sties"
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/evantahler/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/evantahler/upptime).
   navbar:
     - title: Status
       href: /
