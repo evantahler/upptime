@@ -33,17 +33,6 @@ sites:
     url: https://chat.actionherojs.com/api/1/status
     icon: https://www.actionherojs.com/static/images/icons/android-icon-192x192.png
 
-  # Grouparoo
-#   - name: www.grouparoo.com
-#     url: https://www.grouparoo.com
-#     icon: https://www.grouparoo.com/favicon/favicon-196x196.png
-#   - name: telemetry.grouparoo.com
-#     url: https://telemetry.grouparoo.com
-#     icon: https://www.grouparoo.com/favicon/favicon-196x196.png
-#   - name: staging-public.grouparoo.com
-#     url: https://staging-public.grouparoo.com/api/v1/status/public
-#     icon: https://www.grouparoo.com/favicon/favicon-196x196.png
-
   # Voom
   - name: www.voom.flights
     url: https://www.voom.flights
