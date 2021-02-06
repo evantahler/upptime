@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 74,
-    "timeWeek": 116,
-    "timeMonth": 143,
+    "timeDay": 178,
+    "timeWeek": 130,
+    "timeMonth": 147,
     "timeYear": 145,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1298,
-    "timeDay": 2199,
-    "timeWeek": 1482,
-    "timeMonth": 1237,
-    "timeYear": 1298,
+    "time": 1300,
+    "timeDay": 1364,
+    "timeWeek": 1457,
+    "timeMonth": 1248,
+    "timeYear": 1300,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 45,
-    "timeWeek": 138,
-    "timeMonth": 148,
-    "timeYear": 138,
+    "time": 136,
+    "timeDay": 53,
+    "timeWeek": 134,
+    "timeMonth": 147,
+    "timeYear": 136,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +59,17 @@
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-actionherojs-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 176,
-    "timeDay": 86,
-    "timeWeek": 131,
-    "timeMonth": 154,
-    "timeYear": 176,
-    "dailyMinutesDown": {
-      "2021-02-05": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 174,
+    "timeDay": 74,
+    "timeWeek": 126,
+    "timeMonth": 150,
+    "timeYear": 174,
+    "dailyMinutesDown": {}
   },
   {
     "name": "react.actionherojs.com",
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 161,
-    "timeDay": 110,
-    "timeWeek": 290,
-    "timeMonth": 180,
-    "timeYear": 161,
+    "time": 162,
+    "timeDay": 225,
+    "timeWeek": 306,
+    "timeMonth": 185,
+    "timeYear": 162,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 75,
-    "timeWeek": 111,
-    "timeMonth": 137,
-    "timeYear": 124,
+    "time": 123,
+    "timeDay": 84,
+    "timeWeek": 110,
+    "timeMonth": 138,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 661,
-    "timeDay": 90,
+    "time": 649,
+    "timeDay": 75,
     "timeWeek": 124,
-    "timeMonth": 741,
-    "timeYear": 661,
+    "timeMonth": 738,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2021-01-08": 34
     }
@@ -140,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 861,
-    "timeDay": 124,
-    "timeWeek": 193,
-    "timeMonth": 980,
-    "timeYear": 861,
+    "time": 845,
+    "timeDay": 144,
+    "timeWeek": 202,
+    "timeMonth": 156,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2021-01-04": 34
     }
@@ -160,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 87,
-    "timeWeek": 87,
-    "timeMonth": 129,
-    "timeYear": 123,
+    "time": 121,
+    "timeDay": 46,
+    "timeWeek": 80,
+    "timeMonth": 127,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   }
 ]
