@@ -22,19 +22,19 @@
     "url": "https://blog.evantahler.com",
     "icon": "https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png",
     "slug": "blog-evantahler-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1502,
-    "timeDay": 6174,
-    "timeWeek": 2690,
-    "timeMonth": 1668,
-    "timeYear": 1502,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 1507,
+    "timeDay": 4719,
+    "timeWeek": 2592,
+    "timeMonth": 1672,
+    "timeYear": 1507,
     "dailyMinutesDown": {
-      "2021-02-19": 0
+      "2021-02-19": 15
     }
   },
   {
