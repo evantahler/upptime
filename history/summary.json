@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 413,
-    "timeWeek": 172,
-    "timeMonth": 451,
-    "timeYear": 310,
+    "time": 306,
+    "timeDay": 68,
+    "timeWeek": 154,
+    "timeMonth": 450,
+    "timeYear": 306,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1560,
-    "timeDay": 1537,
-    "timeWeek": 2921,
-    "timeMonth": 1771,
-    "timeYear": 1560,
+    "time": 1549,
+    "timeDay": 878,
+    "timeWeek": 2844,
+    "timeMonth": 1757,
+    "timeYear": 1549,
     "dailyMinutesDown": {
       "2021-02-19": 15
     }
@@ -43,19 +43,17 @@
     "icon": "https://www.delicioushat.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-delicioushat-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 138,
-    "timeDay": 86,
-    "timeWeek": 150,
-    "timeMonth": 135,
-    "timeYear": 138,
-    "dailyMinutesDown": {
-      "2021-02-22": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 137,
+    "timeDay": 106,
+    "timeWeek": 143,
+    "timeMonth": 137,
+    "timeYear": 137,
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.actionherojs.com",
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 162,
+    "time": 161,
     "timeDay": 94,
-    "timeWeek": 91,
-    "timeMonth": 125,
-    "timeYear": 162,
+    "timeWeek": 94,
+    "timeMonth": 122,
+    "timeYear": 161,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 110,
-    "timeWeek": 101,
+    "time": 149,
+    "timeDay": 154,
+    "timeWeek": 109,
     "timeMonth": 157,
-    "timeYear": 148,
+    "timeYear": 149,
     "dailyMinutesDown": {}
   },
   {
@@ -105,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 80,
-    "timeWeek": 90,
-    "timeMonth": 112,
+    "timeDay": 125,
+    "timeWeek": 92,
+    "timeMonth": 113,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
@@ -122,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 518,
-    "timeDay": 132,
-    "timeWeek": 139,
-    "timeMonth": 229,
-    "timeYear": 518,
+    "time": 512,
+    "timeDay": 133,
+    "timeWeek": 140,
+    "timeMonth": 230,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2021-01-08": 34
     }
@@ -142,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 661,
-    "timeDay": 111,
-    "timeWeek": 103,
-    "timeMonth": 142,
-    "timeYear": 661,
+    "time": 652,
+    "timeDay": 86,
+    "timeWeek": 104,
+    "timeMonth": 141,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2021-01-04": 34
     }
@@ -163,9 +161,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 150,
-    "timeWeek": 117,
-    "timeMonth": 124,
+    "timeDay": 127,
+    "timeWeek": 111,
+    "timeMonth": 125,
     "timeYear": 120,
     "dailyMinutesDown": {}
   }
