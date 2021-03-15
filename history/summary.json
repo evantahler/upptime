@@ -4,19 +4,19 @@
     "url": "https://www.evantahler.com",
     "icon": "https://www.evantahler.com/static/icons/android-icon-192x192.png",
     "slug": "www-evantahler-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 246,
-    "timeWeek": 143,
-    "timeMonth": 148,
-    "timeYear": 267,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 266,
+    "timeDay": 230,
+    "timeWeek": 152,
+    "timeMonth": 150,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2021-03-15": 3
+      "2021-03-15": 23
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://www.delicioushat.com",
     "icon": "https://www.delicioushat.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-delicioushat-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 141,
-    "timeDay": 102,
+    "timeDay": 117,
     "timeWeek": 141,
     "timeMonth": 150,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2021-03-15": 2
+      "2021-03-15": 21
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://www.actionherojs.com",
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-actionherojs-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 156,
-    "timeDay": 212,
-    "timeWeek": 136,
+    "timeDay": 170,
+    "timeWeek": 135,
     "timeMonth": 127,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2021-03-15": 0
+      "2021-03-15": 19
     }
   },
   {
@@ -142,18 +142,18 @@
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "chat-actionherojs-com",
     "status": "down",
-    "uptime": "98.08%",
+    "uptime": "98.06%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.06%",
-    "uptimeMonth": "95.18%",
-    "uptimeYear": "98.08%",
+    "uptimeWeek": "78.87%",
+    "uptimeMonth": "95.14%",
+    "uptimeYear": "98.06%",
     "time": 830,
     "timeDay": 106,
     "timeWeek": 3379,
     "timeMonth": 1016,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2021-03-15": 789,
+      "2021-03-15": 809,
       "2021-03-14": 1321,
       "2021-01-04": 34
     }
