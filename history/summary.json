@@ -4,10 +4,10 @@
     "url": "https://www.evantahler.com",
     "icon": "https://www.evantahler.com/static/icons/android-icon-192x192.png",
     "slug": "www-evantahler-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 246,
@@ -16,6 +16,7 @@
     "timeMonth": 225,
     "timeYear": 246,
     "dailyMinutesDown": {
+      "2021-04-28": 1,
       "2021-03-15": 23
     }
   },
@@ -46,10 +47,10 @@
     "url": "https://www.delicioushat.com",
     "icon": "https://www.delicioushat.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-delicioushat-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 154,
@@ -58,6 +59,7 @@
     "timeMonth": 184,
     "timeYear": 154,
     "dailyMinutesDown": {
+      "2021-04-28": 1,
       "2021-03-15": 21
     }
   },
@@ -66,9 +68,9 @@
     "url": "https://www.actionherojs.com",
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-actionherojs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -78,6 +80,7 @@
     "timeMonth": 174,
     "timeYear": 165,
     "dailyMinutesDown": {
+      "2021-04-28": 0,
       "2021-03-15": 19
     }
   },
@@ -143,18 +146,18 @@
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "chat-actionherojs-com",
     "status": "down",
-    "uptime": "62.82%",
+    "uptime": "62.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.82%",
+    "uptimeYear": "62.57%",
     "time": 684,
     "timeDay": 703,
     "timeWeek": 1105,
     "timeMonth": 458,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2021-04-28": 13,
+      "2021-04-28": 708,
       "2021-04-27": 1440,
       "2021-04-26": 1440,
       "2021-04-25": 1440,
