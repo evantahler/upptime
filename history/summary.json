@@ -144,18 +144,18 @@
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "chat-actionherojs-com",
     "status": "down",
-    "uptime": "58.92%",
+    "uptime": "58.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "58.92%",
+    "uptimeYear": "58.58%",
     "time": 663,
     "timeDay": 237,
     "timeWeek": 340,
     "timeMonth": 490,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2021-05-06": 36,
+      "2021-05-06": 1091,
       "2021-05-05": 1440,
       "2021-05-04": 1440,
       "2021-05-03": 1440,
@@ -217,9 +217,9 @@
     "url": "https://www.voom.flights",
     "icon": "https://www.voom.flights/icon.png",
     "slug": "www-voom-flights",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -228,6 +228,8 @@
     "timeWeek": 140,
     "timeMonth": 156,
     "timeYear": 135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-06": 0
+    }
   }
 ]
