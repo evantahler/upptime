@@ -87,18 +87,18 @@
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "react-actionherojs-com",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 151,
     "timeDay": 105,
     "timeWeek": 115,
     "timeMonth": 134,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2021-06-08": 23
+      "2021-06-08": 39
     }
   },
   {
@@ -106,18 +106,20 @@
     "url": "https://docs.actionherojs.com",
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "docs-actionherojs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 139,
-    "timeWeek": 109,
-    "timeMonth": 128,
-    "timeYear": 150,
-    "dailyMinutesDown": {}
+    "time": 149,
+    "timeDay": 125,
+    "timeWeek": 107,
+    "timeMonth": 127,
+    "timeYear": 149,
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "demo.actionherojs.com",
@@ -157,7 +159,7 @@
     "timeMonth": 125,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2021-06-08": 617,
+      "2021-06-08": 634,
       "2021-06-07": 1440,
       "2021-06-06": 1440,
       "2021-06-05": 1440,
@@ -252,17 +254,17 @@
     "url": "https://www.voom.flights",
     "icon": "https://www.voom.flights/icon.png",
     "slug": "www-voom-flights",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.44%",
+    "uptimeDay": "98.43%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 228,
-    "timeDay": 1768,
-    "timeWeek": 700,
-    "timeMonth": 313,
-    "timeYear": 228,
+    "time": 227,
+    "timeDay": 1376,
+    "timeWeek": 650,
+    "timeMonth": 310,
+    "timeYear": 227,
     "dailyMinutesDown": {
       "2021-06-08": 22,
       "2021-05-06": 58
