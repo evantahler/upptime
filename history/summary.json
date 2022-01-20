@@ -66,11 +66,11 @@
     "url": "https://www.actionherojs.com",
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-actionherojs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 165,
     "timeDay": 67,
@@ -78,7 +78,7 @@
     "timeMonth": 99,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2022-01-20": 25,
+      "2022-01-20": 18,
       "2021-03-15": 19
     }
   },
