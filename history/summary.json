@@ -68,9 +68,9 @@
     "slug": "www-actionherojs-com",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 163,
     "timeDay": 78,
@@ -78,7 +78,8 @@
     "timeMonth": 96,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2022-01-20": 18,
+      "2022-01-21": 8,
+      "2022-01-20": 20,
       "2021-03-15": 19
     }
   },
