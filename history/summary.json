@@ -46,9 +46,9 @@
     "url": "https://www.delicioushat.com",
     "icon": "https://www.delicioushat.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-delicioushat-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,6 +58,7 @@
     "timeMonth": 390,
     "timeYear": 183,
     "dailyMinutesDown": {
+      "2022-02-16": 0,
       "2021-03-15": 21
     }
   },
@@ -68,9 +69,9 @@
     "slug": "www-actionherojs-com",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "97.40%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "97.42%",
     "uptimeYear": "99.78%",
     "time": 140,
     "timeDay": 78,
@@ -78,7 +79,6 @@
     "timeMonth": 105,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2022-02-16": 8,
       "2022-02-15": 19,
       "2022-02-14": 31,
       "2022-02-12": 30,
