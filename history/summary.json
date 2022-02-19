@@ -37,8 +37,7 @@
     "timeYear": 761,
     "dailyMinutesDown": {
       "2021-03-16": 15,
-      "2021-02-23": 31,
-      "2021-02-19": 15
+      "2021-02-23": 31
     }
   },
   {
@@ -68,9 +67,9 @@
     "slug": "www-actionherojs-com",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "94.66%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "97.14%",
+    "uptimeDay": "95.29%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "97.16%",
     "uptimeYear": "99.76%",
     "time": 144,
     "timeDay": 53,
@@ -78,7 +77,7 @@
     "timeMonth": 118,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2022-02-18": 77,
+      "2022-02-18": 68,
       "2022-02-17": 47,
       "2022-02-15": 19,
       "2022-02-14": 31,
