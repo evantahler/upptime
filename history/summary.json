@@ -15,9 +15,7 @@
     "timeWeek": 144,
     "timeMonth": 131,
     "timeYear": 169,
-    "dailyMinutesDown": {
-      "2021-03-15": 23
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "blog.evantahler.com",
@@ -55,9 +53,7 @@
     "timeWeek": 110,
     "timeMonth": 258,
     "timeYear": 193,
-    "dailyMinutesDown": {
-      "2021-03-15": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.actionherojs.com",
@@ -66,17 +62,17 @@
     "slug": "www-actionherojs-com",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "93.13%",
-    "uptimeWeek": "95.84%",
-    "uptimeMonth": "97.80%",
+    "uptimeDay": "93.94%",
+    "uptimeWeek": "95.96%",
+    "uptimeMonth": "97.82%",
     "uptimeYear": "99.60%",
     "time": 144,
     "timeDay": 87,
-    "timeWeek": 74,
+    "timeWeek": 75,
     "timeMonth": 149,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2022-03-14": 100,
+      "2022-03-14": 88,
       "2022-03-12": 67,
       "2022-03-11": 62,
       "2022-03-10": 53,
@@ -119,8 +115,7 @@
       "2022-01-24": 36,
       "2022-01-22": 54,
       "2022-01-21": 53,
-      "2022-01-20": 20,
-      "2021-03-15": 19
+      "2022-01-20": 20
     }
   },
   {
@@ -194,7 +189,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "56.98%",
+    "uptimeYear": "56.99%",
     "time": 348,
     "timeDay": 136,
     "timeWeek": 133,
@@ -358,8 +353,7 @@
       "2021-03-19": 1440,
       "2021-03-18": 1440,
       "2021-03-17": 1440,
-      "2021-03-16": 1440,
-      "2021-03-15": 1440
+      "2021-03-16": 1440
     }
   },
   {
