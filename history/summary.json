@@ -22,10 +22,10 @@
     "url": "https://blog.evantahler.com",
     "icon": "https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png",
     "slug": "blog-evantahler-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 785,
@@ -33,7 +33,9 @@
     "timeWeek": 116,
     "timeMonth": 123,
     "timeYear": 560,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-26": 1
+    }
   },
   {
     "name": "www.delicioushat.com",
@@ -61,7 +63,7 @@
     "status": "up",
     "uptime": "99.56%",
     "uptimeDay": "97.32%",
-    "uptimeWeek": "98.22%",
+    "uptimeWeek": "98.39%",
     "uptimeMonth": "96.25%",
     "uptimeYear": "99.45%",
     "time": 138,
