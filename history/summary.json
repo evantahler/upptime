@@ -32,7 +32,7 @@
     "timeDay": 262,
     "timeWeek": 94,
     "timeMonth": 113,
-    "timeYear": 469,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2022-04-01": 33,
       "2022-03-26": 29
@@ -65,9 +65,9 @@
     "slug": "www-actionherojs-com",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "95.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "95.79%",
     "uptimeYear": "99.47%",
     "time": 132,
     "timeDay": 74,
@@ -75,7 +75,6 @@
     "timeMonth": 91,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2022-04-11": 2,
       "2022-04-10": 15,
       "2022-04-08": 87,
       "2022-04-07": 38,
@@ -122,7 +121,8 @@
       "2022-02-15": 19,
       "2022-02-14": 31,
       "2022-02-12": 30,
-      "2022-02-11": 77
+      "2022-02-11": 77,
+      "2022-02-10": 15
     }
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 186,
     "timeWeek": 139,
     "timeMonth": 128,
-    "timeYear": 135,
+    "timeYear": 134,
     "dailyMinutesDown": {
       "2021-06-08": 53
     }
@@ -160,7 +160,7 @@
     "timeDay": 179,
     "timeWeek": 131,
     "timeMonth": 131,
-    "timeYear": 129,
+    "timeYear": 130,
     "dailyMinutesDown": {}
   },
   {
@@ -196,7 +196,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.65%",
+    "uptimeYear": "64.66%",
     "time": 337,
     "timeDay": 271,
     "timeWeek": 195,
@@ -332,8 +332,7 @@
       "2021-04-16": 1440,
       "2021-04-15": 1440,
       "2021-04-14": 1440,
-      "2021-04-13": 1440,
-      "2021-04-12": 1440
+      "2021-04-13": 1440
     }
   },
   {
@@ -351,7 +350,7 @@
     "timeDay": 408,
     "timeWeek": 259,
     "timeMonth": 277,
-    "timeYear": 261,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2021-06-08": 22,
       "2021-05-06": 58
