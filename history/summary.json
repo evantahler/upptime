@@ -63,9 +63,9 @@
     "url": "https://www.actionherojs.com",
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-actionherojs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "97.22%",
+    "uptimeDay": "97.21%",
     "uptimeWeek": "97.25%",
     "uptimeMonth": "97.26%",
     "uptimeYear": "99.46%",
@@ -75,6 +75,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
+      "2022-04-22": 0,
       "2022-04-21": 40,
       "2022-04-20": 75,
       "2022-04-18": 37,
@@ -121,8 +122,7 @@
       "2022-02-25": 22,
       "2022-02-22": 16,
       "2022-02-21": 25,
-      "2022-02-20": 28,
-      "2022-02-19": 16
+      "2022-02-20": 28
     }
   },
   {
@@ -196,7 +196,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.40%",
+    "uptimeYear": "67.41%",
     "time": 333,
     "timeDay": 112,
     "timeWeek": 149,
