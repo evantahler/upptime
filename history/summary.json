@@ -43,18 +43,19 @@
     "url": "https://www.delicioushat.com",
     "icon": "https://www.delicioushat.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-delicioushat-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 179,
+    "time": 180,
     "timeDay": 35,
     "timeWeek": 76,
     "timeMonth": 122,
     "timeYear": 185,
     "dailyMinutesDown": {
+      "2022-04-23": 0,
       "2022-04-01": 33
     }
   },
@@ -65,17 +66,17 @@
     "slug": "www-actionherojs-com",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "95.00%",
-    "uptimeWeek": "95.77%",
-    "uptimeMonth": "96.93%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "95.88%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "99.45%",
     "time": 146,
     "timeDay": 934,
     "timeWeek": 346,
     "timeMonth": 166,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2022-04-23": 54,
+      "2022-04-23": 43,
       "2022-04-22": 117,
       "2022-04-21": 40,
       "2022-04-20": 75,
@@ -117,7 +118,8 @@
       "2022-03-06": 17,
       "2022-03-04": 35,
       "2022-03-03": 17,
-      "2022-03-02": 40
+      "2022-03-02": 40,
+      "2022-03-01": 21
     }
   },
   {
