@@ -65,16 +65,17 @@
     "slug": "www-actionherojs-com",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "91.87%",
-    "uptimeWeek": "96.09%",
-    "uptimeMonth": "97.06%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "91.06%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "97.03%",
+    "uptimeYear": "99.45%",
     "time": 146,
     "timeDay": 861,
     "timeWeek": 348,
     "timeMonth": 167,
     "timeYear": 144,
     "dailyMinutesDown": {
+      "2022-04-23": 11,
       "2022-04-22": 117,
       "2022-04-21": 40,
       "2022-04-20": 75,
@@ -192,7 +193,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.67%",
+    "uptimeYear": "67.68%",
     "time": 333,
     "timeDay": 119,
     "timeWeek": 125,
@@ -317,8 +318,7 @@
       "2021-04-27": 1440,
       "2021-04-26": 1440,
       "2021-04-25": 1440,
-      "2021-04-24": 1440,
-      "2021-04-23": 1440
+      "2021-04-24": 1440
     }
   },
   {
