@@ -37,6 +37,15 @@ sites:
   - name: www.voom.flights
     url: https://www.voom.flights
     icon: https://www.voom.flights/icon.png
+    
+  # Grouparoo
+  - name: www.grouparoo.com
+    url: https://www.grouparoo.com
+    icon: https://www.grouparoo.com/_next/image?url=%2Fimages%2Flogo.png&w=128&q=75
+    
+  # Airbyte
+  - name: airbyte.com
+    url: https://airbyte.com
 
 assignees: # Users to assign downtime issues (optional)
   - evantahler
