@@ -169,7 +169,7 @@
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "chat-actionherojs-com",
     "status": "up",
-    "uptime": "74.73%",
+    "uptime": "74.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
@@ -197,9 +197,9 @@
     "url": "https://www.voom.flights",
     "icon": "https://www.voom.flights/icon.png",
     "slug": "www-voom-flights",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -208,7 +208,9 @@
     "timeWeek": 372,
     "timeMonth": 330,
     "timeYear": 295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "www.grouparoo.com",
