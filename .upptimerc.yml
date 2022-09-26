@@ -7,9 +7,6 @@ sites:
   - name: www.evantahler.com
     url: https://www.evantahler.com
     icon: https://www.evantahler.com/static/icons/android-icon-192x192.png
-  - name: blog.evantahler.com
-    url: https://blog.evantahler.com
-    icon: https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png
 
   # Delicious Hat
   - name: www.delicioushat.com
@@ -32,11 +29,6 @@ sites:
   - name: chat.actionherojs.com
     url: https://chat.actionherojs.com/api/1/status
     icon: https://www.actionherojs.com/static/images/icons/android-icon-192x192.png
-
-  # Voom
-  - name: www.voom.flights
-    url: https://www.voom.flights
-    icon: https://www.voom.flights/icon.png
     
   # Grouparoo
   - name: www.grouparoo.com
