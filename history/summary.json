@@ -84,7 +84,7 @@
     "timeMonth": 0,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2023-04-24": 9,
+      "2023-04-24": 13,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
@@ -267,7 +267,7 @@
     "slug": "demo-actionherojs-com",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "37.94%",
+    "uptimeDay": "38.08%",
     "uptimeWeek": "88.78%",
     "uptimeMonth": "95.97%",
     "uptimeYear": "98.53%",
@@ -359,7 +359,7 @@
     "timeMonth": 294,
     "timeYear": 1700,
     "dailyMinutesDown": {
-      "2023-04-24": 9,
+      "2023-04-24": 13,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
