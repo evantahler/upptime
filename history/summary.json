@@ -52,7 +52,7 @@
     "timeDay": 0,
     "timeWeek": 136,
     "timeMonth": 144,
-    "timeYear": 175,
+    "timeYear": 176,
     "dailyMinutesDown": {
       "2022-05-03": 262,
       "2022-05-02": 239
@@ -68,14 +68,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "58.54%",
+    "uptimeYear": "58.53%",
     "time": 137,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2023-05-01": 363,
+      "2023-05-01": 424,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
@@ -263,15 +263,15 @@
     "url": "https://demo.actionherojs.com/api/status",
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "demo-actionherojs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "45.85%",
-    "uptimeWeek": "59.72%",
+    "uptimeDay": "50.01%",
+    "uptimeWeek": "59.73%",
     "uptimeMonth": "86.74%",
-    "uptimeYear": "98.26%",
-    "time": 5234,
+    "uptimeYear": "98.27%",
+    "time": 5242,
     "timeDay": 8623,
-    "timeWeek": 8342,
+    "timeWeek": 8543,
     "timeMonth": 9061,
     "timeYear": 6139,
     "dailyMinutesDown": {
@@ -316,7 +316,7 @@
       "2023-02-28": 58,
       "2023-02-24": 196,
       "2023-02-23": 772,
-      "2023-02-22": 115
+      "2023-02-22": 60
     }
   },
   {
@@ -329,14 +329,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "58.50%",
+    "uptimeYear": "58.48%",
     "time": 1415,
     "timeDay": 0,
     "timeWeek": 243,
     "timeMonth": 303,
     "timeYear": 1712,
     "dailyMinutesDown": {
-      "2023-05-01": 363,
+      "2023-05-01": 424,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
