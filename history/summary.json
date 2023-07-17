@@ -61,7 +61,7 @@
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "react-actionherojs-com",
     "status": "down",
-    "uptime": "75.50%",
+    "uptime": "75.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2023-07-17": 12,
+      "2023-07-17": 17,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -396,7 +396,7 @@
     "timeMonth": 360,
     "timeYear": 1832,
     "dailyMinutesDown": {
-      "2023-07-17": 12,
+      "2023-07-17": 17,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
