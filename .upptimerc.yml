@@ -17,17 +17,11 @@ sites:
   - name: www.actionherojs.com
     url: https://www.actionherojs.com
     icon: https://www.actionherojs.com/static/images/icons/android-icon-192x192.png
-  - name: react.actionherojs.com
-    url: https://react.actionherojs.com
-    icon: https://www.actionherojs.com/static/images/icons/android-icon-192x192.png
   - name: docs.actionherojs.com
     url: https://docs.actionherojs.com
     icon: https://www.actionherojs.com/static/images/icons/android-icon-192x192.png
   - name: demo.actionherojs.com
     url: https://demo.actionherojs.com/api/status
-    icon: https://www.actionherojs.com/static/images/icons/android-icon-192x192.png
-  - name: chat.actionherojs.com
-    url: https://chat.actionherojs.com/api/1/status
     icon: https://www.actionherojs.com/static/images/icons/android-icon-192x192.png
     
   # Grouparoo
