@@ -142,19 +142,19 @@
     "url": "https://www.grouparoo.com",
     "icon": "https://www.grouparoo.com/_next/image?url=%2Fimages%2Flogo.png&w=128&q=75",
     "slug": "www-grouparoo-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1175,
-    "timeDay": 514,
-    "timeWeek": 888,
-    "timeMonth": 1258,
-    "timeYear": 1230,
+    "time": 1173,
+    "timeDay": 534,
+    "timeWeek": 847,
+    "timeMonth": 1235,
+    "timeYear": 1228,
     "dailyMinutesDown": {
-      "2023-10-25": 0
+      "2023-10-25": 9
     }
   },
   {
