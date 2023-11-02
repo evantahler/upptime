@@ -40,19 +40,19 @@
     "url": "https://www.actionherojs.com",
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-actionherojs-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 220,
-    "timeWeek": 902,
-    "timeMonth": 299,
+    "timeDay": 152,
+    "timeWeek": 799,
+    "timeMonth": 292,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2023-11-02": 0
+      "2023-11-02": 8
     }
   },
   {
