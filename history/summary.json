@@ -4,10 +4,10 @@
     "url": "https://www.evantahler.com",
     "icon": "https://www.evantahler.com/static/icons/android-icon-192x192.png",
     "slug": "www-evantahler-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
@@ -15,16 +15,18 @@
     "timeWeek": 113,
     "timeMonth": 144,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-28": 1
+    }
   },
   {
     "name": "www.delicioushat.com",
     "url": "https://www.delicioushat.com",
     "icon": "https://www.delicioushat.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-delicioushat-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 93,
     "timeMonth": 131,
     "timeYear": 138,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-28": 0
+    }
   },
   {
     "name": "www.actionherojs.com",
