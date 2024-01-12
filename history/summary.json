@@ -4,19 +4,19 @@
     "url": "https://www.evantahler.com",
     "icon": "https://www.evantahler.com/static/icons/android-icon-192x192.png",
     "slug": "www-evantahler-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 100,
-    "timeWeek": 117,
-    "timeMonth": 108,
-    "timeYear": 143,
+    "time": 174,
+    "timeDay": 2582,
+    "timeWeek": 735,
+    "timeMonth": 263,
+    "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-01-12": 0
+      "2024-01-12": 10
     }
   },
   {
