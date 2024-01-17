@@ -4,36 +4,40 @@
     "url": "https://www.evantahler.com",
     "icon": "https://www.evantahler.com/static/icons/android-icon-192x192.png",
     "slug": "www-evantahler-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 102,
-    "timeWeek": 733,
-    "timeMonth": 271,
-    "timeYear": 157,
-    "dailyMinutesDown": {}
+    "time": 176,
+    "timeDay": 685,
+    "timeWeek": 793,
+    "timeMonth": 302,
+    "timeYear": 161,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "www.delicioushat.com",
     "url": "https://www.delicioushat.com",
     "icon": "https://www.delicioushat.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-delicioushat-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 58,
-    "timeWeek": 102,
-    "timeMonth": 113,
-    "timeYear": 128,
-    "dailyMinutesDown": {}
+    "time": 149,
+    "timeDay": 167,
+    "timeWeek": 123,
+    "timeMonth": 118,
+    "timeYear": 129,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "www.actionherojs.com",
@@ -142,18 +146,20 @@
     "url": "https://www.grouparoo.com",
     "icon": "https://www.grouparoo.com/_next/image?url=%2Fimages%2Flogo.png&w=128&q=75",
     "slug": "www-grouparoo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1165,
-    "timeDay": 1595,
-    "timeWeek": 1404,
-    "timeMonth": 1231,
-    "timeYear": 1175,
-    "dailyMinutesDown": {}
+    "time": 1169,
+    "timeDay": 1880,
+    "timeWeek": 1499,
+    "timeMonth": 1260,
+    "timeYear": 1178,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "airbyte.com",
