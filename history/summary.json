@@ -80,18 +80,19 @@
     "url": "https://demo.actionherojs.com/api/status",
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "demo-actionherojs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "26.83%",
+    "uptimeDay": "27.66%",
     "uptimeWeek": "82.66%",
     "uptimeMonth": "96.01%",
-    "uptimeYear": "96.35%",
-    "time": 3247,
-    "timeDay": 355,
-    "timeWeek": 267,
-    "timeMonth": 236,
-    "timeYear": 2976,
+    "uptimeYear": "96.37%",
+    "time": 3243,
+    "timeDay": 284,
+    "timeWeek": 255,
+    "timeMonth": 233,
+    "timeYear": 2971,
     "dailyMinutesDown": {
+      "2024-06-17": 0,
       "2024-06-16": 1068,
       "2024-06-15": 680,
       "2023-08-11": 87,
@@ -136,7 +137,7 @@
       "2023-07-02": 359,
       "2023-07-01": 238,
       "2023-06-30": 392,
-      "2023-06-29": 287
+      "2023-06-29": 175
     }
   },
   {
