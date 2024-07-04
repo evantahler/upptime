@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 93,
-    "timeWeek": 125,
-    "timeMonth": 117,
+    "timeDay": 107,
+    "timeWeek": 131,
+    "timeMonth": 114,
     "timeYear": 149,
     "dailyMinutesDown": {
       "2024-01-17": 19
@@ -25,15 +25,15 @@
     "icon": "https://www.delicioushat.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-delicioushat-com",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 138,
-    "timeWeek": 110,
-    "timeMonth": 127,
+    "timeDay": 108,
+    "timeWeek": 108,
+    "timeMonth": 129,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2024-01-17": 19
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 140,
-    "timeWeek": 108,
-    "timeMonth": 113,
+    "timeDay": 148,
+    "timeWeek": 116,
+    "timeMonth": 114,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 163,
-    "timeWeek": 163,
-    "timeMonth": 139,
+    "timeDay": 114,
+    "timeWeek": 150,
+    "timeMonth": 140,
     "timeYear": 139,
     "dailyMinutesDown": {}
   },
@@ -85,12 +85,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "70.79%",
-    "uptimeYear": "94.49%",
-    "time": 2907,
-    "timeDay": 463,
-    "timeWeek": 254,
-    "timeMonth": 242,
-    "timeYear": 2347,
+    "uptimeYear": "94.52%",
+    "time": 2906,
+    "timeDay": 298,
+    "timeWeek": 253,
+    "timeMonth": 244,
+    "timeYear": 2336,
     "dailyMinutesDown": {
       "2024-06-24": 1242,
       "2024-06-23": 1440,
@@ -137,8 +137,7 @@
       "2023-07-10": 298,
       "2023-07-08": 121,
       "2023-07-07": 284,
-      "2023-07-06": 121,
-      "2023-07-05": 242
+      "2023-07-06": 121
     }
   },
   {
@@ -152,11 +151,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1164,
-    "timeDay": 1623,
+    "time": 1166,
+    "timeDay": 1706,
     "timeWeek": 1290,
-    "timeMonth": 1157,
-    "timeYear": 1153,
+    "timeMonth": 1174,
+    "timeYear": 1156,
     "dailyMinutesDown": {
       "2024-01-17": 19
     }
@@ -173,9 +172,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 212,
-    "timeDay": 179,
-    "timeWeek": 208,
-    "timeMonth": 180,
+    "timeDay": 107,
+    "timeWeek": 193,
+    "timeMonth": 182,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2023-11-08": 22,
