@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 122,
-    "timeWeek": 173,
-    "timeMonth": 135,
+    "timeDay": 66,
+    "timeWeek": 146,
+    "timeMonth": 130,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2024-01-17": 19
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 130,
-    "timeWeek": 137,
-    "timeMonth": 204,
+    "timeDay": 151,
+    "timeWeek": 133,
+    "timeMonth": 202,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2024-01-17": 19
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 138,
-    "timeWeek": 181,
-    "timeMonth": 169,
+    "timeDay": 116,
+    "timeWeek": 178,
+    "timeMonth": 168,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
@@ -69,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 182,
-    "timeWeek": 188,
+    "timeDay": 80,
+    "timeWeek": 183,
     "timeMonth": 162,
     "timeYear": 141,
     "dailyMinutesDown": {}
@@ -81,16 +81,16 @@
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "demo-actionherojs-com",
     "status": "up",
-    "uptime": "98.39%",
+    "uptime": "98.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.34%",
-    "uptimeYear": "95.19%",
+    "uptimeMonth": "90.62%",
+    "uptimeYear": "95.21%",
     "time": 2439,
-    "timeDay": 170,
-    "timeWeek": 247,
-    "timeMonth": 251,
-    "timeYear": 1867,
+    "timeDay": 194,
+    "timeWeek": 244,
+    "timeMonth": 252,
+    "timeYear": 1772,
     "dailyMinutesDown": {
       "2024-06-24": 1242,
       "2024-06-23": 1440,
@@ -120,8 +120,7 @@
       "2023-07-27": 180,
       "2023-07-26": 181,
       "2023-07-25": 178,
-      "2023-07-24": 122,
-      "2023-07-23": 444
+      "2023-07-24": 122
     }
   },
   {
@@ -136,10 +135,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1174,
-    "timeDay": 1503,
-    "timeWeek": 1310,
-    "timeMonth": 1272,
-    "timeYear": 1161,
+    "timeDay": 1782,
+    "timeWeek": 1266,
+    "timeMonth": 1312,
+    "timeYear": 1162,
     "dailyMinutesDown": {
       "2024-01-17": 19
     }
@@ -156,9 +155,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 215,
-    "timeDay": 218,
-    "timeWeek": 548,
-    "timeMonth": 266,
+    "timeDay": 74,
+    "timeWeek": 524,
+    "timeMonth": 262,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2023-11-08": 22,
