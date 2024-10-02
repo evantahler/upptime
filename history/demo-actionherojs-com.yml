@@ -1,7 +1,7 @@
 url: https://demo.actionherojs.com/api/status
-status: down
-code: 502
-responseTime: 717
-lastUpdated: 2024-10-02T00:56:09.754Z
+status: up
+code: 200
+responseTime: 2179
+lastUpdated: 2024-10-02T01:34:17.873Z
 startTime: 2020-12-28T02:23:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
