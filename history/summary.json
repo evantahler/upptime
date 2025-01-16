@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 113,
-    "timeWeek": 132,
-    "timeMonth": 130,
+    "timeDay": 105,
+    "timeWeek": 127,
+    "timeMonth": 129,
     "timeYear": 144,
-    "dailyMinutesDown": {
-      "2024-01-17": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.delicioushat.com",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 130,
-    "timeWeek": 147,
-    "timeMonth": 137,
+    "timeDay": 117,
+    "timeWeek": 143,
+    "timeMonth": 133,
     "timeYear": 142,
-    "dailyMinutesDown": {
-      "2024-01-17": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.actionherojs.com",
@@ -51,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 115,
-    "timeWeek": 118,
+    "timeDay": 113,
+    "timeWeek": 123,
     "timeMonth": 125,
     "timeYear": 141,
     "dailyMinutesDown": {}
@@ -69,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 111,
-    "timeWeek": 143,
+    "timeDay": 109,
+    "timeWeek": 136,
     "timeMonth": 155,
-    "timeYear": 152,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -81,18 +77,19 @@
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "demo-actionherojs-com",
     "status": "down",
-    "uptime": "95.14%",
+    "uptime": "95.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.44%",
+    "uptimeYear": "83.16%",
     "time": 400,
-    "timeDay": 198,
-    "timeWeek": 249,
-    "timeMonth": 239,
+    "timeDay": 210,
+    "timeWeek": 208,
+    "timeMonth": 240,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2025-01-15": 17,
+      "2025-01-16": 17,
+      "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
@@ -177,13 +174,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1169,
-    "timeDay": 570,
-    "timeWeek": 804,
-    "timeMonth": 1021,
+    "timeDay": 1715,
+    "timeWeek": 823,
+    "timeMonth": 1056,
     "timeYear": 1184,
-    "dailyMinutesDown": {
-      "2024-01-17": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "airbyte.com",
@@ -197,10 +192,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 246,
-    "timeWeek": 234,
-    "timeMonth": 251,
-    "timeYear": 232,
+    "timeDay": 247,
+    "timeWeek": 253,
+    "timeMonth": 249,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   }
 ]
