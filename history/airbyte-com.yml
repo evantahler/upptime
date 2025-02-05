@@ -1,7 +1,7 @@
 url: https://airbyte.com
-status: down
-code: 429
-responseTime: 155
-lastUpdated: 2025-02-05T13:53:55.859Z
+status: up
+code: 200
+responseTime: 266
+lastUpdated: 2025-02-05T14:03:31.420Z
 startTime: 2022-09-01T17:25:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
