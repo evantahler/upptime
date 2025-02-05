@@ -77,10 +77,10 @@
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "demo-actionherojs-com",
     "status": "up",
-    "uptime": "94.74%",
+    "uptime": "94.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.48%",
+    "uptimeMonth": "46.34%",
     "uptimeYear": "81.55%",
     "time": 444,
     "timeDay": 213,
@@ -190,17 +190,19 @@
     "url": "https://airbyte.com",
     "icon": "https://icons.duckduckgo.com/ip3/airbyte.com.ico",
     "slug": "airbyte-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 107,
-    "timeWeek": 264,
-    "timeMonth": 254,
+    "time": 223,
+    "timeDay": 131,
+    "timeWeek": 251,
+    "timeMonth": 251,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   }
 ]
