@@ -85,10 +85,10 @@
     "url": "https://demo.actionherojs.com/api/status",
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "demo-actionherojs-com",
-    "status": "up",
-    "uptime": "94.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "56.97%",
+    "status": "down",
+    "uptime": "94.38%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "68.32%",
     "uptimeMonth": "76.14%",
     "uptimeYear": "79.56%",
     "time": 457,
@@ -97,6 +97,7 @@
     "timeMonth": 900,
     "timeYear": 532,
     "dailyMinutesDown": {
+      "2025-03-05": 0,
       "2025-03-01": 35,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -217,7 +218,7 @@
     "time": 228,
     "timeDay": 285,
     "timeWeek": 297,
-    "timeMonth": 265,
+    "timeMonth": 281,
     "timeYear": 231,
     "dailyMinutesDown": {}
   }
