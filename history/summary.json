@@ -4,9 +4,9 @@
     "url": "https://www.evantahler.com",
     "icon": "https://www.evantahler.com/static/icons/android-icon-192x192.png",
     "slug": "www-evantahler-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 153,
     "timeMonth": 159,
     "timeYear": 148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-17": 0
+    }
   },
   {
     "name": "www.delicioushat.com",
     "url": "https://www.delicioushat.com",
     "icon": "https://www.delicioushat.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-delicioushat-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 159,
     "timeMonth": 149,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-17": 0
+    }
   },
   {
     "name": "www.actionherojs.com",
     "url": "https://www.actionherojs.com",
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-actionherojs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.09%",
@@ -52,6 +56,7 @@
     "timeMonth": 155,
     "timeYear": 143,
     "dailyMinutesDown": {
+      "2025-07-17": 0,
       "2025-02-21": 1280,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -86,7 +91,7 @@
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "demo-actionherojs-com",
     "status": "up",
-    "uptime": "91.59%",
+    "uptime": "91.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "73.46%",
@@ -241,18 +246,20 @@
     "url": "https://www.grouparoo.com",
     "icon": "https://www.grouparoo.com/_next/image?url=%2Fimages%2Flogo.png&w=128&q=75",
     "slug": "www-grouparoo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1114,
+    "time": 1115,
     "timeDay": 395,
     "timeWeek": 1480,
     "timeMonth": 1121,
     "timeYear": 1099,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-17": 0
+    }
   },
   {
     "name": "airbyte.com",
