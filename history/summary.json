@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 146,
-    "timeWeek": 126,
-    "timeMonth": 139,
+    "time": 143,
+    "timeDay": 179,
+    "timeWeek": 136,
+    "timeMonth": 141,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 141,
-    "timeWeek": 129,
-    "timeMonth": 143,
-    "timeYear": 138,
+    "timeDay": 122,
+    "timeWeek": 131,
+    "timeMonth": 142,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.09%",
     "time": 141,
-    "timeDay": 66,
-    "timeWeek": 116,
+    "timeDay": 120,
+    "timeWeek": 119,
     "timeMonth": 133,
     "timeYear": 142,
     "dailyMinutesDown": {
@@ -74,10 +74,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 107,
-    "timeWeek": 204,
-    "timeMonth": 194,
-    "timeYear": 175,
+    "timeDay": 167,
+    "timeWeek": 154,
+    "timeMonth": 197,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   },
   {
@@ -86,14 +86,14 @@
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "demo-actionherojs-com",
     "status": "up",
-    "uptime": "91.04%",
+    "uptime": "91.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "42.59%",
+    "uptimeWeek": "56.87%",
     "uptimeMonth": "64.30%",
     "uptimeYear": "64.23%",
     "time": 583,
-    "timeDay": 262,
-    "timeWeek": 1608,
+    "timeDay": 216,
+    "timeWeek": 1604,
     "timeMonth": 595,
     "timeYear": 687,
     "dailyMinutesDown": {
@@ -244,8 +244,7 @@
       "2024-10-15": 25,
       "2024-10-14": 16,
       "2024-10-02": 38,
-      "2024-08-21": 29,
-      "2024-08-05": 27
+      "2024-08-21": 29
     }
   },
   {
@@ -260,10 +259,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1087,
-    "timeDay": 644,
-    "timeWeek": 664,
-    "timeMonth": 789,
-    "timeYear": 1057,
+    "timeDay": 1717,
+    "timeWeek": 853,
+    "timeMonth": 796,
+    "timeYear": 1058,
     "dailyMinutesDown": {}
   },
   {
@@ -278,9 +277,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 182,
-    "timeWeek": 210,
-    "timeMonth": 257,
+    "timeDay": 269,
+    "timeWeek": 225,
+    "timeMonth": 260,
     "timeYear": 250,
     "dailyMinutesDown": {}
   }
