@@ -89,13 +89,13 @@
     "uptime": "91.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "64.34%",
+    "uptimeMonth": "66.13%",
     "uptimeYear": "64.24%",
     "time": 585,
-    "timeDay": 249,
+    "timeDay": 178,
     "timeWeek": 274,
-    "timeMonth": 578,
-    "timeYear": 686,
+    "timeMonth": 588,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2025-08-01": 50,
       "2025-07-31": 1440,
@@ -269,17 +269,19 @@
     "url": "https://airbyte.com",
     "icon": "https://icons.duckduckgo.com/ip3/airbyte.com.ico",
     "slug": "airbyte-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 277,
-    "timeWeek": 266,
-    "timeMonth": 233,
-    "timeYear": 251,
-    "dailyMinutesDown": {}
+    "time": 242,
+    "timeDay": 709,
+    "timeWeek": 375,
+    "timeMonth": 261,
+    "timeYear": 253,
+    "dailyMinutesDown": {
+      "2025-08-21": 0
+    }
   }
 ]
