@@ -6,18 +6,16 @@
     "slug": "www-evantahler-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
     "timeDay": 127,
     "timeWeek": 139,
     "timeMonth": 143,
     "timeYear": 146,
-    "dailyMinutesDown": {
-      "2025-08-25": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.delicioushat.com",
@@ -26,18 +24,16 @@
     "slug": "www-delicioushat-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
     "timeDay": 182,
     "timeWeek": 161,
     "timeMonth": 146,
     "timeYear": 139,
-    "dailyMinutesDown": {
-      "2025-08-25": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.actionherojs.com",
@@ -46,9 +42,9 @@
     "slug": "www-actionherojs-com",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.09%",
     "time": 140,
     "timeDay": 133,
@@ -56,7 +52,6 @@
     "timeMonth": 129,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2025-08-25": 2,
       "2025-02-21": 1280,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -93,16 +88,17 @@
     "status": "down",
     "uptime": "91.02%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "65.94%",
+    "uptimeWeek": "65.18%",
     "uptimeMonth": "72.19%",
-    "uptimeYear": "63.59%",
+    "uptimeYear": "63.57%",
     "time": 585,
     "timeDay": 267,
     "timeWeek": 265,
     "timeMonth": 580,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2025-08-25": 1383,
+      "2025-08-26": 19,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 610,
       "2025-08-01": 50,
@@ -261,8 +257,8 @@
     "slug": "www-grouparoo-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1047,
@@ -270,9 +266,7 @@
     "timeWeek": 554,
     "timeMonth": 680,
     "timeYear": 1002,
-    "dailyMinutesDown": {
-      "2025-08-25": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "airbyte.com",
