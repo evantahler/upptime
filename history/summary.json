@@ -4,19 +4,19 @@
     "url": "https://www.evantahler.com",
     "icon": "https://www.evantahler.com/static/icons/android-icon-192x192.png",
     "slug": "www-evantahler-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.44%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "100.00%",
     "time": 144,
     "timeDay": 129,
     "timeWeek": 138,
     "timeMonth": 143,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-08-26": 37
+      "2025-08-26": 24
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.delicioushat.com",
     "icon": "https://www.delicioushat.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-delicioushat-com",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "97.50%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 143,
     "timeDay": 168,
     "timeWeek": 157,
     "timeMonth": 146,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-08-26": 36
+      "2025-08-26": 24
     }
   },
   {
@@ -44,11 +44,11 @@
     "url": "https://www.actionherojs.com",
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-actionherojs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "98.08%",
     "time": 141,
     "timeDay": 140,
@@ -56,7 +56,7 @@
     "timeMonth": 130,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2025-08-26": 36,
+      "2025-08-26": 24,
       "2025-02-21": 1280,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -93,7 +93,7 @@
     "status": "down",
     "uptime": "90.98%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "56.16%",
+    "uptimeWeek": "56.04%",
     "uptimeMonth": "72.19%",
     "uptimeYear": "63.40%",
     "time": 585,
@@ -102,7 +102,7 @@
     "timeMonth": 580,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2025-08-26": 929,
+      "2025-08-26": 941,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 610,
@@ -260,19 +260,19 @@
     "url": "https://www.grouparoo.com",
     "icon": "https://www.grouparoo.com/_next/image?url=%2Fimages%2Flogo.png&w=128&q=75",
     "slug": "www-grouparoo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.99%",
-    "time": 1049,
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
+    "time": 1051,
     "timeDay": 664,
     "timeWeek": 546,
     "timeMonth": 671,
     "timeYear": 999,
     "dailyMinutesDown": {
-      "2025-08-26": 34
+      "2025-08-26": 22
     }
   },
   {
