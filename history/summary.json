@@ -4,9 +4,9 @@
     "url": "https://www.evantahler.com",
     "icon": "https://www.evantahler.com/static/icons/android-icon-192x192.png",
     "slug": "www-evantahler-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 272,
     "timeYear": 166,
     "dailyMinutesDown": {
+      "2025-10-15": 0,
       "2025-09-04": 24,
       "2025-08-28": 15,
       "2025-08-26": 23
@@ -26,9 +27,9 @@
     "url": "https://www.delicioushat.com",
     "icon": "https://www.delicioushat.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-delicioushat-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -38,6 +39,7 @@
     "timeMonth": 131,
     "timeYear": 151,
     "dailyMinutesDown": {
+      "2025-10-15": 0,
       "2025-09-04": 23,
       "2025-08-26": 23
     }
@@ -47,9 +49,9 @@
     "url": "https://www.actionherojs.com",
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "www-actionherojs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.08%",
@@ -59,6 +61,7 @@
     "timeMonth": 160,
     "timeYear": 152,
     "dailyMinutesDown": {
+      "2025-10-15": 0,
       "2025-09-04": 23,
       "2025-08-26": 23,
       "2025-02-21": 1280,
@@ -104,7 +107,7 @@
     "timeDay": 212,
     "timeWeek": 284,
     "timeMonth": 290,
-    "timeYear": 681,
+    "timeYear": 682,
     "dailyMinutesDown": {
       "2025-10-01": 65,
       "2025-09-30": 1440,
@@ -279,18 +282,19 @@
     "url": "https://www.grouparoo.com",
     "icon": "https://www.grouparoo.com/_next/image?url=%2Fimages%2Flogo.png&w=128&q=75",
     "slug": "www-grouparoo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1023,
+    "time": 1024,
     "timeDay": 634,
     "timeWeek": 911,
     "timeMonth": 781,
     "timeYear": 959,
     "dailyMinutesDown": {
+      "2025-10-15": 0,
       "2025-09-04": 22,
       "2025-08-26": 22
     }
