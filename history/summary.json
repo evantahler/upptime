@@ -83,19 +83,19 @@
     "url": "https://docs.actionherojs.com",
     "icon": "https://www.actionherojs.com/static/images/icons/android-icon-192x192.png",
     "slug": "docs-actionherojs-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 148,
-    "timeWeek": 193,
-    "timeMonth": 190,
+    "timeDay": 178,
+    "timeWeek": 199,
+    "timeMonth": 191,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 9
     }
   },
   {
