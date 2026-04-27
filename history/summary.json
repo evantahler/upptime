@@ -108,7 +108,7 @@
     "timeMonth": 252,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2026-04-27": 907,
+      "2026-04-27": 910,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
@@ -317,10 +317,10 @@
     }
   },
   {
-    "name": "arcade.dev",
-    "url": "https://arcade.dev",
+    "name": "www.arcade.dev",
+    "url": "https://www.arcade.dev",
     "icon": "https://www.arcade.dev/_astro/webclip.C66p0AgO.jpg",
-    "slug": "arcade-dev",
+    "slug": "www-arcade-dev",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -353,10 +353,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "keryxjs.com",
-    "url": "https://keryxjs.com",
+    "name": "www.keryxjs.com",
+    "url": "https://www.keryxjs.com",
     "icon": "https://www.keryxjs.com/images/horn.svg",
-    "slug": "keryxjs-com",
+    "slug": "www-keryxjs-com",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
