@@ -20,10 +20,7 @@ sites:
   - name: docs.actionherojs.com
     url: https://docs.actionherojs.com
     icon: https://www.actionherojs.com/static/images/icons/android-icon-192x192.png
-  - name: demo.actionherojs.com
-    url: https://demo.actionherojs.com/api/status
-    icon: https://www.actionherojs.com/static/images/icons/android-icon-192x192.png
-    
+
   # Grouparoo
   - name: www.grouparoo.com
     url: https://www.grouparoo.com
