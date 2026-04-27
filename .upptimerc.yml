@@ -33,6 +33,16 @@ sites:
   - name: airbyte.com
     url: https://airbyte.com
 
+  # Arcade
+  - name: arcade.dev
+    url: https://arcade.dev
+  - name: docs.arcade.dev
+    url: https://docs.arcade.dev
+
+  # Keryx
+  - name: keryxjs.com
+    url: https://keryxjs.com
+
 assignees: # Users to assign downtime issues (optional)
   - evantahler
 
