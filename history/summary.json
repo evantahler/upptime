@@ -108,7 +108,7 @@
     "timeMonth": 252,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2026-04-27": 905,
+      "2026-04-27": 907,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
@@ -319,7 +319,7 @@
   {
     "name": "arcade.dev",
     "url": "https://arcade.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/arcade.dev.ico",
+    "icon": "https://www.arcade.dev/_astro/webclip.C66p0AgO.jpg",
     "slug": "arcade-dev",
     "status": "up",
     "uptime": "100.00%",
@@ -337,7 +337,7 @@
   {
     "name": "docs.arcade.dev",
     "url": "https://docs.arcade.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/docs.arcade.dev.ico",
+    "icon": "https://docs.arcade.dev/apple-touch-icon.png",
     "slug": "docs-arcade-dev",
     "status": "up",
     "uptime": "100.00%",
@@ -355,7 +355,7 @@
   {
     "name": "keryxjs.com",
     "url": "https://keryxjs.com",
-    "icon": "https://icons.duckduckgo.com/ip3/keryxjs.com.ico",
+    "icon": "https://www.keryxjs.com/images/horn.svg",
     "slug": "keryxjs-com",
     "status": "up",
     "uptime": "100.00%",
