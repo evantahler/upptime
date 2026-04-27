@@ -36,12 +36,15 @@ sites:
   # Arcade
   - name: arcade.dev
     url: https://arcade.dev
+    icon: https://www.arcade.dev/_astro/webclip.C66p0AgO.jpg
   - name: docs.arcade.dev
     url: https://docs.arcade.dev
+    icon: https://docs.arcade.dev/apple-touch-icon.png
 
   # Keryx
   - name: keryxjs.com
     url: https://keryxjs.com
+    icon: https://www.keryxjs.com/images/horn.svg
 
 assignees: # Users to assign downtime issues (optional)
   - evantahler
