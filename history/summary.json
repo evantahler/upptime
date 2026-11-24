@@ -78,18 +78,20 @@
     "url": "https://www.grouparoo.com",
     "icon": "https://www.grouparoo.com/_next/image?url=%2Fimages%2Flogo.png&w=128&q=75",
     "slug": "www-grouparoo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 965,
-    "timeDay": 408,
-    "timeWeek": 751,
-    "timeMonth": 521,
-    "timeYear": 1036,
-    "dailyMinutesDown": {}
+    "time": 964,
+    "timeDay": 218,
+    "timeWeek": 661,
+    "timeMonth": 505,
+    "timeYear": 1032,
+    "dailyMinutesDown": {
+      "2026-11-24": 0
+    }
   },
   {
     "name": "airbyte.com",
